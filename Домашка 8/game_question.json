@@ -1,0 +1,21 @@
+[{
+    "question": "How many days do we have in a week?",
+    "difficult": "1",
+    "answer": "7"
+}, {
+    "question": "How many letters are there in the English alphabet?",
+    "difficult": "3",
+    "answer": "26"
+}, {
+    "question": "How many sides are there in a triangle?",
+    "difficult": "2",
+    "answer": "3"
+}, {
+    "question": "How many years are there in one Millennium?",
+    "difficult": "2",
+    "answer": "1000"
+}, {
+    "question": "How many sides does hexagon have?",
+    "difficult": "4",
+    "answer": "6"
+}]

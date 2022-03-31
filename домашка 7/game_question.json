@@ -1,0 +1,55 @@
+{
+  "Транспорт":
+        {
+          "100": {
+            "question": "plane",
+            "answer": "самолет",
+            "asked": false
+          },
+          "200": {
+            "question": "train",
+            "answer": "поезд",
+            "asked": false
+          },
+          "300": {
+            "question": "boarding",
+            "answer": "абордаж",
+            "asked": false
+          }
+        },
+  "Животные":
+        {
+          "100": {
+            "question": "dog",
+            "answer": "самолёт",
+            "asked": false
+          },
+          "200": {
+            "question": "shark",
+            "answer": "акула",
+            "asked": false
+          },
+          "300": {
+            "question": "sparrow",
+            "answer": "воробей",
+            "asked": false
+          }
+        },
+  "Еда": {
+        "100": {
+          "question": "apple",
+          "answer": "яблоко",
+          "asked": false
+        },
+        "200": {
+          "question": "barry",
+          "answer": "ягода",
+          "asked": false
+        },
+        "300": {
+          "question": "venison",
+          "answer": "оленина",
+          "asked": false
+        }
+      }
+}
